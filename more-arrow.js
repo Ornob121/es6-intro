@@ -20,3 +20,5 @@ const doMath = (x, y, z) => {
     const result = firstAdd - secondAdd;
     return result;
 }
+const math = doMath(2, 3, 4);
+console.log(math)
